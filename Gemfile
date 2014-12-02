@@ -42,3 +42,4 @@ gem 'devise'
 gem 'bootstrap-sass'
 gem 'quiet_assets', group: [:development, :test]
 gem 'simple_form'
+gem 'bootstrap-datepicker-rails'
